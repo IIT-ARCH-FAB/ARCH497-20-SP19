@@ -226,7 +226,7 @@ MISCELLANEOUS_WorkOffset = G
 STARTUP_ProgramCodeStart
 [START_CHAR]
 (FlashCut-Precix-Inch Post Processor)
-(Version 2, 05/12/2019)
+(Version 3, 06/05/2019)
 (Brett Ian Balogh: brettbalogh@gmail.com)
 
 G0 G17 G20 G40 G80 G90
